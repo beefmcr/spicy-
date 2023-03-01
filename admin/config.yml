@@ -1194,3 +1194,5 @@ collections:
                 widget: string
                 required: false
 publish_mode: editorial_workflow
+- name: Clone Github Repo Action
+  uses: GuillaumeFalourd/clone-github-repo-action@v2
